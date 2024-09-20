@@ -17,14 +17,21 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/leighanna-pipatanangkura
-  - name: Professional Resume
+  - name: Resume
+    icon: <i class="fa-solid fa-file"></i>
     link: https://docs.google.com/document/d/1p-8GK7abUOVvnUVElgpoxhipD4D6HhGY9hacK58lGQA/edit?usp=sharing
-  - name: Academic CV 
-    link: TBD
   - name: Publications
-    link: TBD
+    icon: <i class="fa-solid fa-book"></i>
+    link: /publications/
   - name: Projects
-    link: TBD
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: /projects/
+
+collections:
+  projects:
+    output: true
+  publications:
+    output: true
 
 # navigation:
 #   - name: Readme
