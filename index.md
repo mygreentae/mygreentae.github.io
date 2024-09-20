@@ -17,3 +17,9 @@ I am eager to connect with potential advisors, collaborator, and fellow research
 reearch oportunities or any exciting projects in the realm of Computer Science, AI, and NLP.
 
 **This site is still under construction so it might be a little weird**
+
+# Education
+
+# Skills
+
+# Awards and Achievements 
