@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 # About Me
@@ -16,10 +17,10 @@ Outside my academic and professional pursuits, I enjoy crochet, playing rythm ga
 I am eager to connect with potential advisors, collaborator, and fellow researcher. Feel free to reach out to discuss 
 reearch oportunities or any exciting projects in the realm of Computer Science, AI, and NLP.
 
-**This site is still under construction so it might be a little weird**
+**This site is still under construction so this site might be a little weird**
 
-# Education
+## Education
 
-# Skills
+## Skills
 
-# Awards and Achievements 
+## Awards and Achievements 
