@@ -2,122 +2,21 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](./another-page.html).
+Hi! I am Leighanna Pipatanangkura. I am currently in the overwhelming phase of preparing to apply for PhD programs in Computer Science with a focus on NLP and machine learning. I completed my BS in Computer Science and a BA in East Asian Studies with a 
+a minor in Linguistics, followed by an MS in Human Language Technology at the University of Arizona. 
+I am primarily interested in research as well as in roles in software engineering or software developement.
 
-There should be whitespace between paragraphs.
+My primary research interests lie in Explanable AI and Natural Language Processing (NLP). I have quite a strong 
+background in these areas, including a publicaion on open-domain textual question-answering and entailment trees, 
+which was presented at EMNLP 2021. My goal is to further explore these topics and contribute to the cutting-edge 
+research that bridges the gap betwen AI models and human understanding. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Outside my academic and professional pursuits, I enjoy crochet, playing rythm games, and hanging with my dogs 
+(Chip-Chip and Dale). 
 
-# Header 1
+I am eager to connect with potential advisors, collaborator, and fellow researcher. Feel free to reach out to discuss 
+reearch oportunities or any exciting projects in the realm of Computer Science, AI, and NLP.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**This site is still underconstruction so it might be a little weird**
