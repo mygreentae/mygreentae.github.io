@@ -20,12 +20,13 @@ platforms:
   - name: Resume
     icon: <i class="fa-solid fa-file"></i>
     link: https://docs.google.com/document/d/1p-8GK7abUOVvnUVElgpoxhipD4D6HhGY9hacK58lGQA/edit?usp=sharing
-  - name: Publications
-    icon: <i class="fa-solid fa-book"></i>
-    link: /publications/
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: /projects/
+  - name: Publications
+    icon: <i class="fa-solid fa-book"></i>
+    link: /publications/
+  
 
 collections:
   projects:
