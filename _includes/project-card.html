@@ -1,0 +1,23 @@
+<div class="card col-md-4">
+  <h3>{{ project.title }}</h3>
+  <p><b>{{ project.technologies }}</b></p>
+  {% if {{project.date-ended}} %}
+      <p>{{ project.date-started }} &#8212; {{ project.date-ended }}</p>
+  {% else %}
+      <p>{{ project.date-started }} &#8212; Present</p>
+  {% endif %}
+  <ul>
+    {% for description in project.description %}
+      <li>{{ description }}</li>
+    {% endfor %}
+  </ul>
+  
+  <div class="links">
+    {% if project.github %}
+      [<a href="{{ project.github }}">code</a>]
+    {% endif %}
+    {% if project.link %}
+      [<a href="{{ project.link }}">website</a>]
+    {% endif %}
+  </div>
+</div>

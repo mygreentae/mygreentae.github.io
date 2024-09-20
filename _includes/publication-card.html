@@ -1,0 +1,20 @@
+<div class="card col-md-4">
+  <h3>{{ publication.title }}</h3>
+  <p><b>{{ publication.authors }}</b></p>
+  <p>{{ publication.journal }} {{ publication.year v}}</p>
+  
+  <div class="links">
+    {% if publication.paper %}
+      [<a href="{{ publication.paper }}">paper</a>]
+    {% endif %}
+    {% if publication.data %}
+      [<a href="{{ publication.data }}">data</a>]
+    {% endif %}
+    {% if publication.github %}
+      [<a href="{{ publication.github }}">code</a>]
+    {% endif %}
+    {% if publication.book %}
+      [<a href="{{ publication.book }}">book</a>]
+    {% endif %}
+  </div>
+</div>
