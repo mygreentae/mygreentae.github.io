@@ -9,7 +9,7 @@ Hi! I am Leighanna Pipatanangkura. I am currently in the overwhelming phase of p
 a minor in Linguistics, followed by an MS in Human Language Technology at the University of Arizona. 
 I am primarily interested in research as well as in industry roles in machine learning engineering or software development.
 
-My primary research interests lie in Explainable AI and Natural Language Processing (NLP). My goal is to further explore these topics and contribute to the cutting-edge research that bridges the gap betwen AI models and human understanding. 
+My primary research interests lie in explainable AI, Natural Language Processing (NLP), language generation, and decision making. My goal is to further explore these topics and contribute to the cutting-edge research that bridges the gap betwen AI models and human understanding. 
 
 Outside my academic and professional pursuits, I enjoy crochet, playing rhythm games, and hanging with my dogs 
 (Chip-Chip and Dale). 
