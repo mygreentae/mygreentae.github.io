@@ -17,9 +17,9 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/leighanna-pipatanangkura
-  - name: Resume
-    icon: <i class="fa-solid fa-file"></i>
-    link: https://docs.google.com/document/d/1p-8GK7abUOVvnUVElgpoxhipD4D6HhGY9hacK58lGQA/edit?usp=sharing
+  - name: CV
+    icon: <i class="fa-solid fa-pencil"></i>
+    link: https://docs.google.com/document/d/12y_OcfGWdKYnZyFaut3nxxFgr3ZhWvMANwwTvdgkQr0/edit?usp=sharing
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: /projects/
