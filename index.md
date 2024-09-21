@@ -11,7 +11,7 @@ I am primarily interested in research as well as in roles in machine learning en
 
 My primary research interests lie in Explainable AI and Natural Language Processing (NLP). My goal is to further explore these topics and contribute to the cutting-edge research that bridges the gap betwen AI models and human understanding. 
 
-Outside my academic and professional pursuits, I enjoy crochet, playing rythm games, and hanging with my dogs 
+Outside my academic and professional pursuits, I enjoy crochet, playing rhythm games, and hanging with my dogs 
 (Chip-Chip and Dale). 
 
 I am eager to connect with potential advisors, collaborator, and fellow researcher. Feel free to reach out to discuss 
@@ -56,11 +56,13 @@ August 2019 - May 2023
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
 <p style="margin-bottom:20px;">Git &#x2022; Github &#x2022; Docker</p>
 
+<h4 style="margin-bottom:2px; margin-top:2px;">Human Languages:</h4>
+<p style="margin-bottom:20px;">Mandarin Chinese (Intermediate) &#x2022; Japanese (Elementary)</p>
+
 ---
 
 ## Awards and Achievements 
 
-<h4 style="margin-bottom:5px;">Academic Achievements:</h4>
 <ul style="margin-left: -1.4em;">
   <li>Academic Year Academic Distinction &#8212; 2023</li>
   <li>Hucker Founders Award &#8212; 2023</li>
