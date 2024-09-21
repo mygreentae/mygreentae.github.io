@@ -42,7 +42,7 @@ August 2019 - May 2023
 <p style="margin-bottom:4px;">Python &#x2022; Java &#x2022; R &#x2022; C/C++ &#x2022; Perl &#x2022; Ruby &#x2022; Haskell &#x2022; Prolog &#x2022; Javascript &#x2022; HTML/CSS</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
-<p style="margin-bottom:4px;">Machine Learning, Natural Langauge Processing</p>
+<p style="margin-bottom:4px;">Machine Learning, Natural Language Processing</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Frameworks & Technologies:</h4>
 <p style="margin-bottom:4px;">spaCy &#x2022; NLTK &#x2022; StanfordNLP &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy &#x2022; TensorFlow &#x2022; PyTorch &#x2022; R Markdown &#x2022; LaTeX</p>
@@ -67,7 +67,7 @@ August 2019 - May 2023
   <li>Academic Year Academic Distinction &#8212; 2023</li>
   <li>Hucker Founders Award &#8212; 2023</li>
   <li>Dean's List &#8212; 2022</li>
-  <li>Academic Year Academic Distiction &#8212; 2020</li>
+  <li>Academic Year Academic Distinction &#8212; 2020</li>
   <li>Dean's List &#8212; 2020</li>
   <li>Dean's List with Distinction &#8212; 2019</li>
 </ul>
