@@ -36,7 +36,7 @@ August 2019 - May 2023
 
 ---
 
-## Skills:
+## Technical Skills:
 
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
 <p style="margin-bottom:4px;">Python &#x2022; Java &#x2022; R &#x2022; C/C++ &#x2022; Perl &#x2022; Ruby &#x2022; Haskell &#x2022; Prolog &#x2022; Javascript &#x2022; HTML/CSS</p>
@@ -56,8 +56,8 @@ August 2019 - May 2023
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
 <p style="margin-bottom:20px;">Git &#x2022; Github &#x2022; Docker</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Human Languages:</h4>
-<p style="margin-bottom:20px;">Mandarin Chinese (Intermediate) &#x2022; Japanese (Elementary)</p>
+## Language Skills 
+<p style="margin-bottom:20px;">English (native) &#x2022; Mandarin Chinese (Intermediate) &#x2022; Japanese (Elementary)</p>
 
 ---
 
