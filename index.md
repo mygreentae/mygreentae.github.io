@@ -5,17 +5,11 @@ permalink: /
 
 # About Me
 
-Hi! I am Leighanna Pipatanangkura. I am currently in the overwhelming phase of preparing to apply for PhD programs in Computer Science with a focus on NLP and machine learning. I completed my BS in Computer Science and a BA in East Asian Studies with a 
-a minor in Linguistics, followed by an MS in Human Language Technology at the University of Arizona. 
-I am primarily interested in research as well as in industry roles in machine learning engineering or software development.
+Hi! I’m Leighanna Pipatanangkura. I completed my BS in Computer Science and a BA in East Asian Studies with a minor in Linguistics, followed by an MS in Human Language Technology at the University of Arizona. I have a deep passion for technology and computers, constantly exploring how they work and how to make them better. While my primary interests lie in explainable AI, Natural Language Processing (NLP), language generation, and decision making, I strive to be well-rounded and knowledgeable in all aspects of technology.
 
-My primary research interests lie in explainable AI, Natural Language Processing (NLP), language generation, and decision making. My goal is to further explore these topics and contribute to the cutting-edge research that bridges the gap betwen AI models and human understanding. 
+Outside of my academic and professional pursuits, I enjoy crocheting, playing rhythm games—especially osu!, and spending time with my dogs, Chip-Chip and Dale.
 
-Outside my academic and professional pursuits, I enjoy crochet, playing rhythm games, and hanging with my dogs 
-(Chip-Chip and Dale). 
-
-I am eager to connect with potential advisors, collaborator, and fellow researcher. Feel free to reach out to discuss 
-reearch oportunities or any exciting projects in the realm of Computer Science, AI, and NLP.
+I’m eager to connect with others who share my interests or simply just want to chat. Please feel free to drop me an email or a message!
 
 ---
 
