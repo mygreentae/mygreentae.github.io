@@ -48,7 +48,7 @@ August 2019 - May 2023
 <p style="margin-bottom:4px;">MySQL</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">Git &#x2022; Github &#x2022; Docker</p>
+<p style="margin-bottom:20px;">Git &#x2022; Github &#x2022; Docker &#x2022; HPC</p>
 
 ## Language Skills 
 <p style="margin-bottom:20px;">English (native) &#x2022; Mandarin Chinese (Intermediate) &#x2022; Japanese (Elementary)</p>
